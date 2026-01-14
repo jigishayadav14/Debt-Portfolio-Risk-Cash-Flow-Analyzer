@@ -12,3 +12,8 @@ Technologies Used -
 - Python 
 - Modular programming principles
 - Basic financial modeling and risk analysis
+
+How to Run -
+- Clone the Repository - https://github.com/jigishayadav14/Debt-Portfolio-Risk-Cash-Flow-Analyzer
+- Navigate to the project folder
+- Run the main program (main.py)
